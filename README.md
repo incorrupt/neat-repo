@@ -1,6 +1,6 @@
 # {{project_name}}
 
-This repository is a [Neat](https://github.com/olivr-com/neat) template, use it by running `npx @olivr/neat repo`
+This repository is a [Neat](https://github.com/olivr-com/neat) template, use it by running `npx @olivr/neat repo` in a new or existing folder
 
 - [💾 Installation](#-installation)
 - [🔥 Usage](#-usage)
