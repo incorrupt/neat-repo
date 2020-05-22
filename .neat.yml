@@ -1,0 +1,10 @@
+ask:
+  - id: project_name
+    description: What is your project name?
+    replace: true
+  - id: security_contact
+    description: How should people who found security issues contact you? (You can enter an email address, a link in the markdown format, etc..)
+    replace: true
+  - id: support_url
+    description: What is the URL where users can find help and support?
+    replace: true
