@@ -2,7 +2,7 @@
 
 > ⚠️ If you are just looking for help, see [support](SUPPORT.md)
 
-First off, thank you for taking the time to contribute! 👍
+First off, thank you for taking the time to contribute!
 
 The following is a set of guidelines for contributing.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
@@ -11,15 +11,11 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Five ways to contribute
 
-⭐ Star this repo: it's quick and goes a long way! [🔝](#top)
-
-🗣️ [Spread the word](#spread-the-word)
-
-🐞 [Report bugs](#report-bugs)
-
-✅ [Resolve issues](#resolve-issues)
-
-📝 [Improve the documentation](#improve-the-documentation)
+- Star this repo: it's quick and goes a long way! [🔝](#top)
+- [Spread the word](#spread-the-word)
+- [Report bugs](#report-bugs)
+- [Resolve issues](#resolve-issues)
+- [Improve the documentation](#improve-the-documentation)
 
 ### Spread the Word
 
@@ -31,7 +27,7 @@ If you are using {{project_name}} in one way or another, credits are always welc
 
 ### Report Bugs
 
-If you found a bug or want to propose a new feature, thank you for taking the time to report it 🙏
+If you found a bug or want to propose a new feature, thank you for taking the time to report it.
 To do so, just open an issue and give as much information as you can about the bug you found and how to reproduce it.
 
 If you know this is a quick fix, you can apply the labels `good first issue` and `easy` so programmers new to {{project_name}} can find it easily to resolve it.
