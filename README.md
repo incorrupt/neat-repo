@@ -2,7 +2,7 @@
 
 This repository is a [Neat](https://github.com/olivr-com/neat) template. It is meant to be used to improve the quality of your open source repos.
 
-> This is the version without emojis. For the emoji version, check out the [emoji branch](https://github.com/olivr-templates/neat-repo/tree/emoji)
+> This is the version with emojis. For the non-emoji version, check out the [master branch](https://github.com/olivr-templates/neat-repo/tree/master)
 
 ## Content
 
