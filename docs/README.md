@@ -1,7 +1,6 @@
 # {{project_name}}
 
-This repository is a [Neat](https://github.com/olivr-com/neat) template, use it by running `npx @olivr/neat repo` in a new or existing folder
-This is the version making use of emojis for headers. If you prefer readmes without emojis, check out the [no-emoji branch](https://github.com/olivr-templates/neat-repo/tree/no-emoji)
+<!-- Describe your project in one sentence -->
 
 - [💾 Installation](#-installation)
 - [🔥 Usage](#-usage)

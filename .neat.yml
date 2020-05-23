@@ -8,3 +8,4 @@ ask:
   - id: support_url
     description: What is the URL where users can find help and support?
     replace: true
+ignore: [README.md]
