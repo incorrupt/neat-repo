@@ -22,22 +22,22 @@ This is the version making use of emojis for headers. If you prefer readmes with
 
 ⭐ Star this repo: it's quick and goes a long way! [🔝](#top)
 
-🗣️ [Spread the word](docs/CONTRIBUTING.md#spread-the-word)
+🗣️ [Spread the word](CONTRIBUTING.md#spread-the-word)
 
-🐞 [Report bugs](docs/CONTRIBUTING.md#report-bugs)
+🐞 [Report bugs](CONTRIBUTING.md#report-bugs)
 
-✅ [Resolve issues](docs/CONTRIBUTING.md#resolve-issues)
+✅ [Resolve issues](CONTRIBUTING.md#resolve-issues)
 
-📝 [Improve the documentation](docs/CONTRIBUTING.md#improve-the-documentation)
+📝 [Improve the documentation](CONTRIBUTING.md#improve-the-documentation)
 
-Please see the [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for more information.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) in the docs folder for more information.
 
 ## 💡 Todo
 
 <!-- Ideas for future features/fixes -->
 
 - [ ] Update documentation
-- [ ] Tailor [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) to this project's needs
+- [ ] Tailor [docs/CONTRIBUTING.md](CONTRIBUTING.md) to this project's needs
 
 ## 💬 Support
 
