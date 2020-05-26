@@ -9,3 +9,5 @@ ask:
     description: What is the URL where users can find help and support?
     replace: true
 ignore: [README.md]
+post-run:
+  - mv docs/README.md README.md
