@@ -6,7 +6,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 ## Content
 
-- [Readme](docs/README.md) ready to be customized
+- [Readme](docs/README.md) ready to be customized and with an auto-updated table of content
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
 - [Pull request](.github/pull_request_template.md) template
 - [Security policy](docs/SECURITY.md)
@@ -18,7 +18,7 @@ _\* By default this template requests users of your repo not to create support q
 
 ## Usage
 
-Install [Neat](https://github.com/olivr-com/neat) or you can run it directly through `npx @olivr/neat`
+Install [Neat](https://github.com/olivr-com/neat) or you can run it directly through `npx neat`
 
 ### For an existing repo
 
