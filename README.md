@@ -6,7 +6,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 ## Content
 
-- [Readme](docs/README.md) ready to be customized and with an auto-updated table of content
+- [Readme](README.tpl.md) ready to be customized and with an auto-updated table of content
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
 - [Pull request](.github/pull_request_template.md) template
 - [Security policy](docs/SECURITY.md)
@@ -18,7 +18,15 @@ _\* By default this template requests users of your repo not to create support q
 
 ## Usage
 
-Install [Neat](https://github.com/olivr-com/neat) or you can run it directly through `npx neat`
+Install [Neat](https://github.com/olivr-com/neat) `npm i -g neat` or you can run it directly through `npx neat`
+
+### For a new repo
+
+Just add a folder at the end of the command. For example:
+
+```sh
+neat repo my-project
+```
 
 ### For an existing repo
 
@@ -34,14 +42,6 @@ Or if you prefer the emoji version
 
 ```sh
 neat repo@emoji
-```
-
-### For a new repo
-
-Just add a folder at the end of the command. For example:
-
-```sh
-neat repo my-project
 ```
 
 ### As your new personalized repo template

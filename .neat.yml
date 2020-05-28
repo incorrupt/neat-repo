@@ -1,3 +1,5 @@
+symlink:
+  - README.md: README.tpl.md
 ask:
   - id: project_name
     description: What is your project name?
@@ -8,6 +10,3 @@ ask:
   - id: support_url
     description: What is the URL where users can find help and support?
     replace: true
-ignore: [README.md]
-post-run:
-  - mv docs/README.md README.md
