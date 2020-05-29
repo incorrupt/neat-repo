@@ -2,11 +2,11 @@
 
 This repository is a [Neat](https://github.com/olivr-com/neat) template. It is meant to be used to improve the quality of your open source repos.
 
-> This is the version without emojis. For the emoji version, check out the [emoji branch](https://github.com/olivr-templates/neat-repo/tree/emoji)
+> This is the version with emojis 😀. For the non-emoji version, check out the [master branch](https://github.com/olivr-templates/neat-repo/tree/master)
 
 ## Content
 
-- [Readme](docs/README.md) ready to be customized
+- [Readme](README.tpl.md) ready to be customized and with an auto-updated table of content
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
 - [Pull request](.github/pull_request_template.md) template
 - [Security policy](docs/SECURITY.md)
@@ -16,9 +16,17 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 _\* By default this template requests users of your repo not to create support questions in the issues tab. If you want to change this, you should edit the files [docs/SUPPORT.md](docs/SUPPORT.md) and [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)_
 
-## Usage
+## Template usage
 
-Install [Neat](https://github.com/olivr-com/neat) or you can run it directly through `npx @olivr/neat`
+Install [Neat](https://github.com/olivr-com/neat) `npm i -g neat` or you can run it directly through `npx`
+
+### For a new repo
+
+Just add a folder at the end of the command. For example:
+
+```sh
+neat repo@emoji my-project
+```
 
 ### For an existing repo
 
@@ -27,36 +35,22 @@ Neat will not overwrite any files in your folder unless you tell it to do so wit
 In your repo folder, run:
 
 ```sh
-neat repo
-```
-
-Or if you prefer the emoji version
-
-```sh
 neat repo@emoji
 ```
 
-### For a new repo
-
-Just add a folder at the end of the command. For example:
+Or if you prefer the version without emojis
 
 ```sh
-neat repo my-project
+neat repo
 ```
 
-### As your new personalized repo template
+### As your new personalized template
 
 Fork this template, customize it to your needs.
 
 Then use Neat as described above and use the path to your forked repo instead.
 
-For example, at Olivr, we use a more customized [default repo](https://github.com/olivr-com/oss), and we would run the following for each new project:
-
-```sh
-neat olivr-com/oss new-project
-```
-
-## Composability
+### Composability
 
 Neat is composable, meaning you can compose a repo from several templates by just running the neat command several times.
-Check out our [other templates](https://github.com/olivr-templates?q=neat) which can all be used in conjunction with this template.
+Check out other [neat templates](https://github.com/search?q=topic%3Aneat-template&type=Repositories).
