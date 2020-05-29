@@ -7,7 +7,6 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Template content](#template-content)
 - [Template usage](#template-usage)
   - [For a new repo](#for-a-new-repo)
@@ -19,7 +18,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 ## Template content
 
-- [Readme](README.tpl.md) ready to be customized and with an auto-updated table of content
+- [Readme](README.tpl.md) ready to be customized, with [hooks](#readme-hooks), and an [auto-updated](.github/workflows/documentation.yml) table of content.
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
 - [Pull request](.github/pull_request_template.md) template
 - [Security policy](docs/SECURITY.md)
@@ -67,3 +66,54 @@ Then use Neat as described above and use the path to your forked repo instead.
 
 Neat is composable, meaning you can compose a repo from several templates by just running the neat command several times.
 Check out other [neat templates](https://github.com/search?q=topic%3Aneat-template&type=Repositories).
+
+Here are the patterns that we're using in this repo. You could make use of them or not, it's up to you!
+
+#### [README.md](README.tpl.md)
+
+```md
+<!-- project-description -->
+<!-- project-installation -->
+<!-- project-usage -->
+<!-- project-contributing -->
+<!-- project-todo -->
+<!-- project-support -->
+<!-- project-license -->
+```
+
+#### [docs/SUPPORT.md](docs/SUPPORT.md)
+
+```md
+<!-- project-support -->
+```
+
+#### [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)
+
+```md
+<!-- project-contributing -->
+```
+
+#### [.github/workflows/documentation.yml](.github/workflows/documentation.yml)
+
+```yml
+##-- workflow-documentation-readme-steps --##
+##-- workflow-documentation-jobs --##
+```
+
+#### [.github/ISSUE_TEMPLATE/Bug.md](.github/ISSUE_TEMPLATE/Bug.md)
+
+```md
+<!-- project-bug -->
+```
+
+#### [.github/ISSUE_TEMPLATE/Feature.md](.github/ISSUE_TEMPLATE/Feature.md)
+
+```md
+<!-- project-feature -->
+```
+
+#### [.github/pull_request_template.md](.github/pull_request_template.md)
+
+```md
+<!-- project-pull-request -->
+```

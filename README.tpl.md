@@ -1,10 +1,9 @@
 # {{project_name}}
 
-<!-- Describe your project in one sentence -->
+<!-- project-description -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,11 +17,11 @@
 
 ## Installation
 
-<!-- Installation instructions -->
+<!-- project-installation -->
 
 ## Usage
 
-<!-- How to use your project -->
+<!-- project-usage -->
 
 ## Contributing
 
@@ -36,19 +35,29 @@
 
 Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) in the docs folder for more information.
 
-<!-- Project specific guidelines -->
+<!-- project-contributing -->
 
 ## Todo
 
-<!-- Ideas for future features/fixes -->
+<!-- project-todo -->
 
 - [ ] Update documentation
 - [ ] Tailor [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) to this project's needs
 
+<!-- project-todo -->
+
 ## Support
+
+<!-- project-support -->
 
 Please see [this link]({{support_url}})
 
+<!-- project-support -->
+
 ## License
 
+<!-- project-license -->
+
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
+
+<!-- project-license -->
