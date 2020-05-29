@@ -19,7 +19,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 ## Template content
 
-- [Readme](README.tpl.md) ready to be customized, with [hooks](#readme-hooks), and an [auto-updated](.github/workflows/documentation.yml) table of content.
+- [Readme](README.tpl.md) ready to be customized, with [hooks](#composability), and an [auto-updated](.github/workflows/documentation.yml) table of content.
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
 - [Pull request](.github/pull_request_template.md) template
 - [Security policy](docs/SECURITY.md)
