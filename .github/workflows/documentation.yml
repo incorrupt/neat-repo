@@ -3,8 +3,8 @@ name: 'Documentation'
 on: push
 
 jobs:
-  documentation:
-    name: Update documentation
+  readme:
+    name: Update readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -15,3 +15,5 @@ jobs:
           TARGET_PATHS: README.md
           TOC_TITLE: ''
           MAX_HEADER_LEVEL: 3
+      ##-- workflow-documentation-readme-steps --##
+  ##-- workflow-documentation-jobs --##

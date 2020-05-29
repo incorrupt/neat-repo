@@ -31,7 +31,7 @@ Describe the modifications you've done.
 What will change as a result of your pull request?
 --->
 
-## How has this been tested?
+## How has this been tested
 
 <!---
 Please describe in detail how you tested your changes.
@@ -39,6 +39,8 @@ Include details of your testing environment, and the tests you ran to
 see how your change affects other areas of the code, etc.
 If this change has an impact on UX, include screenshots or a video.
 --->
+
+<!-- project-pull-request -->
 
 ## Types of changes
 

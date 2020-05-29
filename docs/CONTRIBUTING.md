@@ -9,6 +9,8 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with {{project_name}}.
 
+<!-- project-contributing -->
+
 ## Five ways to contribute
 
 ⭐ Star this repo: it's quick and goes a long way! [🔝](#top)

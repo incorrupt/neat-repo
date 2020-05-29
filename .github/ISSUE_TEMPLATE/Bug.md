@@ -32,6 +32,8 @@ Please include as much details as possible so we can reproduce the
 bug and fix it quickly - This is very important
 --->
 
+<!-- project-bug -->
+
 ### Environment
 
 <!---

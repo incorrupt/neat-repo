@@ -41,6 +41,8 @@ If you're not sure of some details, don't worry! When we evaluate the feature re
 suggest modifications as necessary to work within the design constraints of the project.
 --->
 
+<!-- project-feature -->
+
 ### References
 
 <!--
