@@ -16,9 +16,9 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 _\* By default this template requests users of your repo not to create support questions in the issues tab. If you want to change this, you should edit the files [docs/SUPPORT.md](docs/SUPPORT.md) and [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)_
 
-## Usage
+## Template usage
 
-Install [Neat](https://github.com/olivr-com/neat) `npm i -g neat` or you can run it directly through `npx neat`
+Install [Neat](https://github.com/olivr-com/neat) `npm i -g neat` or you can run it directly through `npx`
 
 ### For a new repo
 
@@ -44,19 +44,13 @@ Or if you prefer the emoji version
 neat repo@emoji
 ```
 
-### As your new personalized repo template
+### As your new personalized template
 
 Fork this template, customize it to your needs.
 
 Then use Neat as described above and use the path to your forked repo instead.
 
-For example, at Olivr, we use a more customized [default repo](https://github.com/olivr-com/oss), and we would run the following for each new project:
-
-```sh
-neat olivr-com/oss new-project
-```
-
-## Composability
+### Composability
 
 Neat is composable, meaning you can compose a repo from several templates by just running the neat command several times.
-Check out our [other templates](https://github.com/olivr-templates?q=neat) which can all be used in conjunction with this template.
+Check out other [neat templates](https://github.com/search?q=topic%3Aneat-template&type=Repositories).
