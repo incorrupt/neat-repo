@@ -25,6 +25,8 @@
 
 ## Contributing
 
+<!-- project-contributing -->
+
 ### Top five ways to contribute
 
 - Star this repo: it's quick and goes a long way! [🔝](#top)
