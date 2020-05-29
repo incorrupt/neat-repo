@@ -7,7 +7,6 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Content](#content)
 - [Template usage](#template-usage)
   - [For a new repo](#for-a-new-repo)
@@ -17,7 +16,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Content
+## Template content
 
 - [Readme](README.tpl.md) ready to be customized and with an auto-updated table of content
 - [Bugs](.github/ISSUE_TEMPLATE/Bug.md) and [Features](.github/ISSUE_TEMPLATE/Feature.md) issue templates
