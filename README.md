@@ -6,7 +6,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+**Table of Contents**
 
 - [Template content](#template-content)
 - [Template usage](#template-usage)
