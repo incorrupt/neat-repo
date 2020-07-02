@@ -37,8 +37,6 @@
 
 Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) in the docs folder for more information.
 
-<!-- project-contributing -->
-
 ## Todo
 
 <!-- project-todo -->
