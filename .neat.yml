@@ -1,5 +1,9 @@
 symlink:
   - README.md: README.tpl.md
+  - .github/workflows/repo-setup.yml: actions/repo-setup.yml
+
+ignore: [actions]
+ 
 ask:
   - id: project_name
     description: What is your project name?

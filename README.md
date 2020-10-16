@@ -4,6 +4,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 
 > This is the version without emojis. For the emoji version, check out the [emoji branch](https://github.com/olivr-templates/neat-repo/tree/emoji)
 
+<!-- prettier-ignore-start -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -16,6 +17,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
   - [Composability](#composability)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- prettier-ignore-end -->
 
 ## Template content
 
@@ -26,6 +28,7 @@ This repository is a [Neat](https://github.com/olivr-com/neat) template. It is m
 - [Code of conduct](docs/CODE_OF_CONDUCT.md) and [Contributing](docs/CONTRIBUTING.md) guidelines
 - A default permissive [license](LICENSE) (Apache 2.0) so you never forget to include a license again
 - [Support](docs/SUPPORT.md) template ready to be customized and a [direct link](.github/ISSUE_TEMPLATE/config.yml) to your support URL when opening an issue \*
+- [Automatic issue staling](.github/workflows/stale.yml) and [automatic setup of issue/pr labels](actions/repo-setup.yml) (wip, low/medium/high priority)
 
 _\* By default this template requests users of your repo not to create support questions in the issues tab. If you want to change this, you should edit the files [docs/SUPPORT.md](docs/SUPPORT.md) and [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)_
 
@@ -76,7 +79,6 @@ Here are the patterns that we're using in this repo. You could make use of them 
 <!-- project-description -->
 <!-- project-installation -->
 <!-- project-usage -->
-<!-- project-contributing -->
 <!-- project-todo -->
 <!-- project-support -->
 <!-- project-license -->
